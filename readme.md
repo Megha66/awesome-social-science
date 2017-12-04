@@ -176,6 +176,16 @@ the anecdote, you can throw away the data."
 
 [R: verywell.com](https://www.verywell.com/what-is-the-hawthorne-effect-2795234)
 
+#### [Synesthesia](https://en.wikipedia.org/wiki/Synesthesia)
+
+> When stimulation of one sense leads to involuntary experiences in another sense
+
+This neurological phenomenon occurs when stimulation of one sense leads to involuntary experiences in another sense or a “union of the senses,” where for example taste and sound are joined together. Some people experience color when they hear sounds or read words and may be able to answer a question like "What color is A?" About 5 percent of the population has synesthesia, and over 60 types have been reported. The most common form of synesthesia is grapheme-color synesthesia, in which people perceive individual letters of the alphabet and numbers to be "shaded" or "tinged" with a color. Other synesthetes commingle sounds with scents, sounds with shapes, or shapes with flavors.
+
+[R: psychologytoday.com](https://www.psychologytoday.com/basics/synesthesia)
+[R: mnn.com](https://www.mnn.com/health/fitness-well-being/stories/what-is-synesthesia-and-whats-it-like-to-have-it)
+
+
 
 ***
 
