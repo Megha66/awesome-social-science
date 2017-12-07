@@ -180,13 +180,11 @@ the anecdote, you can throw away the data."
 
 > When stimulation of one sense leads to involuntary experiences in another sense
 
-This neurological phenomenon occurs when stimulation of one sense leads to involuntary experiences in another sense or a “union of the senses,” where for example taste and sound are joined together. Some people experience color when they hear sounds or read words and may be able to answer a question like "What color is A?" About 5 percent of the population has synesthesia, and over 60 types have been reported. The most common form of synesthesia is grapheme-color synesthesia, in which people perceive individual letters of the alphabet and numbers to be "shaded" or "tinged" with a color. Other synesthetes commingle sounds with scents, sounds with shapes, or shapes with flavors.
-
+This neurological phenomenon occurs when stimulation of one sense leads to involuntary experiences in another sense or a"union of the senses" where for example taste and sound are joined together. Some people experience color when they hear sounds or read words and may be able to answer a question like "What color is A?" Over 60 types of Synesthesia have been reported.
 [R: psychologytoday.com](https://www.psychologytoday.com/basics/synesthesia)
 [R: mnn.com](https://www.mnn.com/health/fitness-well-being/stories/what-is-synesthesia-and-whats-it-like-to-have-it)
 
-
-####[Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
+#### [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
 
 >Phenomenon in which individuals are less likely to offer help to a victim when other people are present
 
@@ -194,12 +192,7 @@ The bystander effect occurs when the presence of others discourages an individua
 When an emergency situation occurs, observers are more likely to take action if there are few or no other witnesses. Being part of a large crowd makes it so no single person has to take responsibility for an action (or inaction).This particulary shows the tendency of people to behave indolently.
 
 [R":verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
-
 [R:biologydictionary.net](https://biologydictionary.net/bystander-effect/)
-
-
-
-
 ***
 
 ## License
