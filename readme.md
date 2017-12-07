@@ -208,7 +208,7 @@ shows the tendency of people to behave indolently.
 
 [R :verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
 
-[R :biologydictionary.net](https://biologydictionary.net/bystander-effect)
+[R :thehindu.com](http://www.thehindu.com/opinion/op-ed/bystander-effect-psychology/article17545542.ece)
 ***
 
 ## License
