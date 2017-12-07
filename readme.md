@@ -15,6 +15,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hanlon's Razor](#hanlons-razor)
   - [Murphy's Law](#murphys-law)
   - [Godwin's Law](#godwins-law)
+  - [Bystander Effect](#bystander-effect)
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
@@ -22,6 +23,8 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Golem Effect](#golem-effect)
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
+  - [Synesthesia](#Synesthesia)
+  
 
 ## Aphorisms / Adages / Epigrams
 
@@ -180,19 +183,32 @@ the anecdote, you can throw away the data."
 
 > When stimulation of one sense leads to involuntary experiences in another sense
 
-This neurological phenomenon occurs when stimulation of one sense leads to involuntary experiences in another sense or a"union of the senses" where for example taste and sound are joined together. Some people experience color when they hear sounds or read words and may be able to answer a question like "What color is A?" Over 60 types of Synesthesia have been reported.
-[R: psychologytoday.com](https://www.psychologytoday.com/basics/synesthesia)
-[R: mnn.com](https://www.mnn.com/health/fitness-well-being/stories/what-is-synesthesia-and-whats-it-like-to-have-it)
+This neurological phenomenon occurs when stimulation of one sense 
+leads to involuntary experiences in another sense or a"union of
+the senses" where for example taste and sound are joined together.
+Some people experience color when they hear sounds or read words 
+and may be able to answer a question like "What color is A?" 
+Over 60 types of Synesthesia have been reported.
+
+[R: scientificamerican.com](https://www.scientificamerican.com/article/what-is-synesthesia)
+
+[R: wikihow.com](https://www.wikihow.com/Tell-if-You-Have-Synesthesia)
 
 #### [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
 
 >Phenomenon in which individuals are less likely to offer help to a victim when other people are present
 
-The bystander effect occurs when the presence of others discourages an individual from intervening in an emergency situation.
-When an emergency situation occurs, observers are more likely to take action if there are few or no other witnesses. Being part of a large crowd makes it so no single person has to take responsibility for an action (or inaction).This particulary shows the tendency of people to behave indolently.
+The bystander effect occurs when the presence of others discourages
+an individual from intervening in an emergency situation. When an 
+emergency situation occurs, observers are more likely to take 
+action if there are few or no other witnesses. Being part of a 
+large crowd makes it so no single person has to take 
+responsibility for an action (or inaction).This particulary 
+shows the tendency of people to behave indolently.
 
-[R":verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
-[R:biologydictionary.net](https://biologydictionary.net/bystander-effect/)
+[R :verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
+
+[R :biologydictionary.net](https://biologydictionary.net/bystander-effect)
 ***
 
 ## License
