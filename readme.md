@@ -15,7 +15,6 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hanlon's Razor](#hanlons-razor)
   - [Murphy's Law](#murphys-law)
   - [Godwin's Law](#godwins-law)
-  - [Bystander Effect](#bystander-effect)
 - [Psychological Syndromes](#psychological-syndromes)
   - [Stockholm Syndrome](#stockholm-syndrome)
   - [Dunning-Kruger Effect](#dunning-kruger-effect-dke)
@@ -24,7 +23,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Capgras Syndrome](#capgras-syndrome)
   - [Hawthorne Effect](#hawthorne-effect)
   - [Synesthesia](#Synesthesia)
-  
+  - [Bystander Effect](#bystander-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -192,11 +191,11 @@ Over 60 types of Synesthesia have been reported.
 
 [R: scientificamerican.com](https://www.scientificamerican.com/article/what-is-synesthesia)
 
-[R: wikihow.com](https://www.wikihow.com/Tell-if-You-Have-Synesthesia)
+[R: apa.org](http://www.apa.org/monitor/mar01/synesthesia.aspx)
 
 #### [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
 
->Phenomenon in which individuals are less likely to offer help to a victim when other people are present
+> Phenomenon in which individuals are less likely to offer help to a victim when other people are present
 
 The bystander effect occurs when the presence of others discourages
 an individual from intervening in an emergency situation. When an 
