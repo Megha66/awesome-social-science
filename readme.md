@@ -24,6 +24,7 @@ Please read the [Contributing Guidelines](./contributing.md) before contributing
   - [Hawthorne Effect](#hawthorne-effect)
   - [Synesthesia](#Synesthesia)
   - [Bystander Effect](#bystander-effect)
+  - [Spotlight effect](#spotlight-effect)
 
 ## Aphorisms / Adages / Epigrams
 
@@ -208,6 +209,25 @@ shows the tendency of people to behave indolently.
 [R :verywell.com](https://www.verywell.com/the-bystander-effect-2795899)
 
 [R :thehindu.com](http://www.thehindu.com/opinion/op-ed/bystander-effect-psychology/article17545542.ece)
+
+#### [Spotlight Effect](https://en.wikipedia.org/wiki/Spotlight_effect)
+
+> Phenomenon in which people tend to believe they are being noticed more than they really are
+
+The "spotlight effect" refers to the tendency to think that more
+people notice something about you than they do.The spotlight 
+effect occurs for different reasons. Each of us views our 
+individual self as the center of our own universe. And while 
+this may be true for us, we tend to forget that we are not the 
+center of everyone else's universe. Our entire world consists 
+of our own personal experiences and viewpoints that help us 
+make sense of everything around us, which includes other 
+individuals.
+
+
+[R :pschologytoday.com](https://www.psychologytoday.com/blog/between-you-and-me/201311/have-you-fallen-prey-the-spotlight-effect)
+
+[R :berkley blogs](http://blogs.berkeley.edu/2012/06/05/the-spotlight-effect/)
 ***
 
 ## License
