@@ -224,12 +224,10 @@ of our own personal experiences and viewpoints that help us
 make sense of everything around us, which includes other 
 individuals.
 
-
 [R :pschologytoday.com](https://www.psychologytoday.com/blog/between-you-and-me/201311/have-you-fallen-prey-the-spotlight-effect)
 
 [R :berkley blogs](http://blogs.berkeley.edu/2012/06/05/the-spotlight-effect/)
 ***
-
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
